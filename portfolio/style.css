@@ -117,7 +117,8 @@ a:hover{
     font-family: 'Montserrat', sans-serif;
     font-size: 50px;
     font-weight: 700;
-    color: black
+    color: black;
+    border-top: 1px solid #c284ab;
 }
 
 .links {
